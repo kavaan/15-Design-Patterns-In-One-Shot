@@ -6,5 +6,5 @@ The keywords listed under each pattern provide a quick reference to help readers
 
 <img src="https://raw.githubusercontent.com/kavaan/15-Design-Patterns-In-One-Shot/main/15-design-patterns-in-one-shot.png"/>
 
-<h2>: <a href="#">Linkedin</a> </h2>
+<h2>: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7053020091864469504/">Linkedin</a> </h2>
 <h2>: <a href="https://medium.com/@KeivanDamirchi/15-design-patterns-in-one-shot-fc91691a81c1">Medium</a> </h2>
